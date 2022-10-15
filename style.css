@@ -1,0 +1,59 @@
+
+    
+    html {
+        height: 100%;
+    }
+
+    body {
+        background-color : #3caea3;
+    }
+
+    .img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container {
+        height: 40em;
+        border: 2px solid black;
+        border-radius: 5px;
+    }
+
+    .box2 {
+        border: 2px solid black;
+        height: 30px;
+        width: 240px;
+        padding-top: 10px;
+        margin-top: 100px;
+        margin-left: 5px;
+        border-radius: 10px;
+        
+    }
+
+    .box1 {
+        border: 2px solid black;
+        height: 30px;
+        width: 270px;
+        margin-right: 5px;
+        padding-top: 10px;
+        float: right;
+        margin-top: 5px;
+        border-radius: 10px;
+    }
+  
+    input{
+        background-color: black;
+        height: 45px;
+        width: 1650px;
+        border: 2px solid black;
+        margin-top: 40px;
+    }
+
+    button{
+        margin-left: 30px;
+        border: 2px solid black;
+        border-radius: 10px;
+        height: 45px;
+        width: 80px;
+    }
+
